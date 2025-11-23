@@ -11,7 +11,7 @@
 - Cart persistence across sessions
 
 ### Proof (90-second video)
-[Watch full execution on real levi.com →](https://www.loom.com/share/[TU_LINK_AQUI])
+[Watch full execution on real levi.com.mx →](https://www.loom.com/share/[TU_LINK_AQUI])
 
 ### Tech stack
 - Playwright Test (latest)
