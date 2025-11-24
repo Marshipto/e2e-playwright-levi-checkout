@@ -10,8 +10,8 @@
 - Payment method failures (card declined simulation)
 - Cart persistence across sessions
 
-### Proof (90-second video)
-[Watch full execution on real levi.com.mx →](https://www.loom.com/share/[TU_LINK_AQUI])
+### Proof (90-second MAX video)
+[Watch full execution on real levi.com.mx →](https://youtu.be/pEvcrO9xeHo)
 
 ### Tech stack
 - Playwright Test (latest)
